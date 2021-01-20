@@ -4,19 +4,20 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calc 2
 
-- Course 2
+- Data Science
 
-- Course 3
+- Economic tech
 
-- Course 4
+- Cloud implementation
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- food
+
 
 - Thing 2
 
